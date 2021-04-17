@@ -30,9 +30,8 @@ Hola, soy Juan Carlos, Ingeniero civil en computación e informática y apasiona
 📊 **Mi tiempo invertido en la semana:**
 <!--START_SECTION:waka-->
 ```text
-Ruby       3 hrs 35 mins   ██████████████████████▒░░   89.58 % 
-Markdown   13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
-ERB        9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
-YAML       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+Ruby       3 hrs 38 mins   ████████████████████████░   95.87 % 
+ERB        6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
+YAML       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 ```
 <!--END_SECTION:waka-->
