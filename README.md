@@ -13,7 +13,6 @@
 Hola, soy Juan Carlos, Ingeniero civil en computación e informática y apasionado por la tecnología. Me encuentro en constante proceso aprendizaje y atento a todo lo nuevo que pueda aprender.
 
 - 💼 Mi portafolio: https://juanlamas.dev/
-- 📫 A veces uso twitter: [@CoCoCov](https://twitter.com/CoCoCov)
 - 📝 Acá puedes ver mi [CV](https://juanlamas.dev/docs/cv_Juan_Lamas.pdf)
 
 **Lenguajes y herramientas:**
