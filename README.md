@@ -27,5 +27,6 @@ Hola, soy Juan Carlos, Ingeniero civil en computación e informática y apasiona
 📊 **Mi tiempo invertido esta semana:**
 <!--START_SECTION:waka-->
 ```text
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
