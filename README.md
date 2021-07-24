@@ -31,10 +31,10 @@ Hola, soy Juan Carlos, Ingeniero civil en computación e informática y apasiona
 ```text
 Week: 17 July, 2021 - 23 July, 2021
 
-Ruby         19 hrs 57 mins  ███████████░░░░░░░░░░░░░░   44.22 % 
-TypeScript   17 hrs 35 mins  █████████▓░░░░░░░░░░░░░░░   38.99 % 
-CSS          5 hrs 40 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
-JSON         1 hr 8 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
-ERB          25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+Ruby         20 hrs 17 mins  ███████████▒░░░░░░░░░░░░░   45.63 % 
+TypeScript   17 hrs 19 mins  █████████▓░░░░░░░░░░░░░░░   38.97 % 
+CSS          4 hrs 57 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
+JSON         1 hr 8 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+ERB          25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
 ```
 <!--END_SECTION:waka-->
