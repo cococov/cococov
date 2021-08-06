@@ -29,7 +29,7 @@ Hola, soy Juan Carlos, Ingeniero civil en computación e informática y apasiona
 📊 **Mi tiempo invertido esta semana:**
 <!--START_SECTION:waka-->
 ```text
-Week: 29 July, 2021 - 04 August, 2021
+Week: 30 July, 2021 - 05 August, 2021
 
 Ruby         8 hrs 10 mins   ████████████████▒░░░░░░░░   65.08 % 
 TypeScript   2 hrs 38 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.08 % 
