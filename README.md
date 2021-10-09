@@ -31,7 +31,8 @@ Hola, soy Juan Carlos, Ingeniero civil en computación e informática y apasiona
 ```text
 Week: 02 October, 2021 - 08 October, 2021
 
-Ruby    7 hrs 5 mins    ████████████████████████▒   96.90 % 
-Other   13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+Ruby    6 hrs 17 mins   ███████████████████████▒░   93.58 % 
+Other   13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
+ERB     12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
 ```
 <!--END_SECTION:waka-->
