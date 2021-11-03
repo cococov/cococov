@@ -1,4 +1,4 @@
-### Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://www.linkedin.com/in/juan-carlos-lamas-alfaro/">
   <img align="left" alt="cococov's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
@@ -8,13 +8,13 @@
 
 <br />
 
-Hola, soy Juan Carlos, Ingeniero civil en computación e informática y apasionado por la tecnología. Me encuentro en constante proceso aprendizaje y atento a todo lo nuevo que pueda aprender.
+Hi! My name is Juan Carlos and I'm a Software Engineer ('Ingeniero civil en computación e informática' in spanish xD). I'm also a tech entusiast and love do nerd stuff.
 
-- 💼 Mi portafolio: https://juanlamas.dev/
-- 📫 Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/juan-carlos-lamas-alfaro/)
-- 📝 Acá puedes ver mi [CV](https://juanlamas.dev/docs/cv_Juan_Lamas.pdf)
+- 💼 My portfolio [currently just in spanish]: https://juanlamas.dev/
+- 📫 Find me on [LinkedIn](https://www.linkedin.com/in/juan-carlos-lamas-alfaro/)
+- 📝 Here is my [CV](https://juanlamas.dev/docs/cv_Juan_Lamas.pdf)
 
-**Lenguajes y herramientas:**
+**Languages and stuff:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
@@ -27,7 +27,7 @@ Hola, soy Juan Carlos, Ingeniero civil en computación e informática y apasiona
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 
-📊 **Mi tiempo invertido esta semana:**
+📊 **What did I do with my time this week:**
 <!--START_SECTION:waka-->
 ```text
 Week: 27 October, 2021 - 02 November, 2021
