@@ -30,7 +30,7 @@ Hi! My name is Juan Carlos and I'm a Software Engineer ('Ingeniero civil en comp
 📊 **What did I do with my time this week:**
 <!--START_SECTION:waka-->
 ```text
-Week: 28 October, 2021 - 03 November, 2021
+Week: 29 October, 2021 - 04 November, 2021
 
 Ruby         11 hrs 21 mins  ██████████▒░░░░░░░░░░░░░░   41.08 % 
 TypeScript   10 hrs 28 mins  █████████▒░░░░░░░░░░░░░░░   37.86 % 
