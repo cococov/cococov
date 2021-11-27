@@ -8,7 +8,7 @@
 
 <br />
 
-Hi! My name is Juan Carlos and I'm a Software Engineer ('Ingeniero civil en computación e informática' in spanish). I'm also a tech entusiast and love do nerd stuff.
+My name is Juan Carlos and I'm a software engineer ('Ingeniero civil en computación e informática' in Spanish). I'm also a tech enthusiast and love doing nerdy stuff.
 
 - 💼 My portfolio [currently just in spanish]: https://juanlamas.dev/
 - 📫 Find me on [LinkedIn](https://www.linkedin.com/in/juan-carlos-lamas-alfaro/)
