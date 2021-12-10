@@ -32,10 +32,10 @@ My name is Juan Carlos and I'm a software engineer ('Ingeniero civil en computac
 ```text
 Week: 03 December, 2021 - 09 December, 2021
 
-Ruby         9 hrs 10 mins   ████████████░░░░░░░░░░░░░   48.35 % 
-Elixir       3 hrs 53 mins   █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
-TypeScript   2 hrs 47 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.69 % 
-Markdown     1 hr 58 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
-Other        39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
+Ruby         8 hrs 23 mins   ███████████▓░░░░░░░░░░░░░   47.02 % 
+Elixir       3 hrs 53 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.75 % 
+TypeScript   2 hrs 15 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.68 % 
+Markdown     1 hr 42 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
+Other        37 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
 ```
 <!--END_SECTION:waka-->
