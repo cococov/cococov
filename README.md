@@ -32,10 +32,9 @@ My name is Juan Carlos and I'm a software engineer ('Ingeniero civil en computac
 ```text
 Week: 11 December, 2021 - 17 December, 2021
 
-Ruby         9 hrs 27 mins   ████████████████████░░░░░   80.04 % 
-JavaScript   1 hr 25 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
-YAML         29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
-Other        14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
-ERB          11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+Ruby         9 hrs 21 mins   ████████████████████▓░░░░   83.08 % 
+JavaScript   1 hr 25 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.73 % 
+YAML         16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
+ERB          11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
 ```
 <!--END_SECTION:waka-->
