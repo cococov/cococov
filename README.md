@@ -35,6 +35,8 @@ Software Engineer, currently working at [Buk](https://www.buk.cl/). I'm also a t
 ```text
 Week: 08 February, 2022 - 14 February, 2022
 
+Total: 5 hrs 25 mins
+
 Ruby         3 hrs 2 mins    ██████████████░░░░░░░░░░░   56.10 % 
 ERB          1 hr 53 mins    ████████▓░░░░░░░░░░░░░░░░   34.81 % 
 JavaScript   21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
