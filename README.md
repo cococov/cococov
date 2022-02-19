@@ -35,10 +35,10 @@ Software Engineer, currently working at [Buk](https://www.buk.cl/). I'm also a t
 ```text
 Week: 12 February, 2022 - 18 February, 2022
 
-ERB          1 hr 52 mins    ████████████▒░░░░░░░░░░░░   49.13 % 
-Ruby         1 hr 45 mins    ███████████▒░░░░░░░░░░░░░   45.97 % 
-JSON         5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
-PowerShell   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
-Markdown     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+Ruby         53 mins         ███████████████████▓░░░░░   78.01 % 
+JSON         5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
+PowerShell   4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
+ERB          3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
+Markdown     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
 ```
 <!--END_SECTION:waka-->
