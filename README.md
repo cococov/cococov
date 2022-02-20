@@ -33,7 +33,7 @@ Software Engineer, currently working at [Buk](https://www.buk.cl/). I'm also a t
 📊 **What did I do with my time this week:**
 <!--START_SECTION:waka-->
 ```text
-Week: 12 February, 2022 - 18 February, 2022
+Week: 13 February, 2022 - 19 February, 2022
 
 Ruby         53 mins         ███████████████████▓░░░░░   78.01 % 
 JSON         5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
