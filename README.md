@@ -33,10 +33,11 @@ Software Engineer, currently working at [Buk](https://www.buk.cl/). I'm also a t
 📊 **What did I do with my time this week:**
 <!--START_SECTION:waka-->
 ```text
-From: 16 February, 2022 - To: 23 February, 2022
+From: 17 February, 2022 - To: 24 February, 2022
 
-PowerShell   35 mins         ███████████▒░░░░░░░░░░░░░   44.92 % 
-Python       27 mins         ████████▓░░░░░░░░░░░░░░░░   35.08 % 
-JSON         15 mins         █████░░░░░░░░░░░░░░░░░░░░   19.99 % 
+Python       1 hr 12 mins    ████████████▒░░░░░░░░░░░░   49.33 % 
+PowerShell   49 mins         ████████▒░░░░░░░░░░░░░░░░   33.78 % 
+JSON         23 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
+Bash         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
 ```
 <!--END_SECTION:waka-->
