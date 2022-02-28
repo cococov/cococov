@@ -34,7 +34,7 @@ Software Engineer, currently working at [Buk](https://www.buk.cl/). I'm also a t
 <!--START_SECTION:waka-->
 
 ```text
-From: 20 February 2022 - To: 27 February 2022
+From: 21 February 2022 - To: 28 February 2022
 
 Python       1 hr 15 mins    ███████████░░░░░░░░░░░░░░   43.69 %
 PowerShell   1 hr 12 mins    ██████████▒░░░░░░░░░░░░░░   41.54 %
