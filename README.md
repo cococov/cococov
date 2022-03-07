@@ -34,7 +34,7 @@ Software Engineer, currently working at [Buk](https://www.buk.cl/). I'm also a t
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 February 2022 - To: 06 March 2022
+From: 28 February 2022 - To: 07 March 2022
 
 JavaScript   3 hrs 4 mins    █████████████▒░░░░░░░░░░░   53.88 %
 Ruby         2 hrs 20 mins   ██████████▒░░░░░░░░░░░░░░   41.18 %
