@@ -34,11 +34,10 @@ Software Engineer, currently working at [Buk](https://www.buk.cl/). I'm also a t
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 May 2022 - To: 16 May 2022
+From: 10 May 2022 - To: 17 May 2022
 
-Python       3 hrs 17 mins   ██████████▓░░░░░░░░░░░░░░   42.18 %
-Ruby         2 hrs 51 mins   █████████░░░░░░░░░░░░░░░░   36.54 %
-Other        42 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.10 %
+Ruby         3 hrs 10 mins   █████████████████░░░░░░░░   68.64 %
+Other        42 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.41 %
 ```
 
 <!--END_SECTION:waka-->
