@@ -26,6 +26,7 @@ Software Engineer, currently working at [Buk](https://www.buk.cl/). I'm also a t
 <code><a href="https://elixir-lang.org/"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg"></a></code>
 <code><a href="https://www.ruby-lang.org/"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></a></code>
 <code><a href="https://rubyonrails.org/"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png"></a></code>
+<code><a href="https://www.python.org/"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></a></code>
 <code><a href="https://www.postgresql.org/"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></a></code>
 <code><a href="https://git-scm.com/"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></a></code>
 <code><a href="https://www.linux.org/"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></a></code>
