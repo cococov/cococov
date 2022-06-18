@@ -35,13 +35,14 @@ Software Engineer, currently working at [Buk](https://www.buk.cl/). I'm also a t
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 June 2022 - To: 17 June 2022
+From: 11 June 2022 - To: 18 June 2022
 
-Python       6 hrs 42 mins   ██████████████▒░░░░░░░░░░   57.37 %
-TypeScript   2 hrs 7 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.23 %
-Ruby         1 hr 45 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.10 %
-CSS          42 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.06 %
-Other        10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
+Python       6 hrs 42 mins   ██████████████░░░░░░░░░░░   56.41 %
+TypeScript   2 hrs 44 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.05 %
+CSS          1 hr 25 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.99 %
+Ruby         48 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.86 %
+JSON         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
+Git Config   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
 ```
 
 <!--END_SECTION:waka-->
