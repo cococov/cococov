@@ -15,6 +15,7 @@ Software Engineer, currently working at [Buk](https://www.buk.cl/). I'm also a t
 - 💼 My portfolio [currently just in spanish]: https://juanlamas.dev/
 - 📫 Find me on [LinkedIn](https://www.linkedin.com/in/juan-carlos-lamas-alfaro/)
 - 📝 Here is my [CV](https://juanlamas.dev/docs/cv_Juan_Lamas.pdf)
+- 🃏 [cEDH metagame and cards analysis page](https://www.cedh-analytics.com/)
 
 **Languages and stuff:**
 
