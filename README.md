@@ -36,14 +36,14 @@ Software Engineer, currently working at [Buk](https://www.buk.cl/). I'm also a t
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 July 2022 - To: 14 July 2022
+From: 08 July 2022 - To: 15 July 2022
 
-Ruby         2 hrs 50 mins   ███████████████░░░░░░░░░░   60.51 %
-JavaScript   1 hr 4 mins     █████▓░░░░░░░░░░░░░░░░░░░   22.88 %
-ERB          13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.98 %
-YAML         10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
-Bash         9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
-TypeScript   6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
+Ruby         3 hrs 26 mins   ██████████████░░░░░░░░░░░   56.54 %
+JavaScript   1 hr 56 mins    ████████░░░░░░░░░░░░░░░░░   31.82 %
+YAML         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
+Bash         9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
+ERB          9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
+TypeScript   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
 ```
 
 <!--END_SECTION:waka-->
