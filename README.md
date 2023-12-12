@@ -1,4 +1,4 @@
-![next-js](https://github.com/cococov/cococov/assets/19384973/6f4f75a3-e54f-46bf-9f85-24040b3ed0d1)[<img src="https://github.com/cococov/cococov/assets/19384973/ad95c7af-d6fb-41f2-8844-1f3f92329f6d" width="32" height="32" />](https://cl.linkedin.com/in/juan-carlos-lamas-alfaro) &nbsp;&nbsp; [![wakatime](https://wakatime.com/badge/user/71c66f00-8a01-44bc-9adb-78ea084934aa.svg)](https://wakatime.com/@71c66f00-8a01-44bc-9adb-78ea084934aa) &nbsp;&nbsp; ![](https://komarev.com/ghpvc/?username=cococov)
+[<img src="https://github.com/cococov/cococov/assets/19384973/ad95c7af-d6fb-41f2-8844-1f3f92329f6d" width="32" height="32" />](https://cl.linkedin.com/in/juan-carlos-lamas-alfaro) &nbsp;&nbsp; [![wakatime](https://wakatime.com/badge/user/71c66f00-8a01-44bc-9adb-78ea084934aa.svg)](https://wakatime.com/@71c66f00-8a01-44bc-9adb-78ea084934aa) &nbsp;&nbsp; ![](https://komarev.com/ghpvc/?username=cococov)
 
 ### Hi 👋
 
@@ -11,7 +11,6 @@ My name is Juan Carlos, currently working as a Senior Software Engineer at [Buk]
 <code><img title="JS" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img title="Typescript" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img title="React" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img title="Next" height="30" src="https://cdn.worldvectorlogo.com/logos/next-js.svg"></code>
 <code height="30"><img title="Linux" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img title="Git" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img title="SQL" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
