@@ -5,10 +5,10 @@
 My name is Juan Carlos, currently working as a Senior Software Engineer at [Buk](https://github.com/bukhr).
 > Engineer, programmer, Magic: the gathering player and nerd.
 
-- Find me on [LinkedIn](https://www.linkedin.com/in/juan-carlos-lamas-alfaro/)
+- Find me on [LinkedIn](https://www.linkedin.com/in/juan-carlos-lamas-alfaro/).
 - Check out my [Portfolio](https://juanlamas.dev/). <code>Outdated</code> <code>Just in Spanish</code>
-- [cEDH Analytics](https://www.cedh-analytics.com/) <code>My biggest personal project</code>
-- [Moxfield](https://www.moxfield.com/users/cococov)
+- [cEDH Analytics](https://www.cedh-analytics.com/). <code>My biggest personal project</code>
+- [Moxfield](https://www.moxfield.com/users/cococov).
 
 ### Languages and Stuff:
 <code><img title="JS" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
