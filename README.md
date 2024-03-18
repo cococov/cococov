@@ -27,7 +27,7 @@ My name is Juan Carlos, currently working as a Senior Software Engineer at [Buk]
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 March 2024 - To: 17 March 2024
+From: 11 March 2024 - To: 18 March 2024
 
 JavaScript   4 hrs 28 mins   ██████████████▓░░░░░░░░░░   58.96 %
 Ruby         1 hr 28 mins    █████░░░░░░░░░░░░░░░░░░░░   19.34 %
