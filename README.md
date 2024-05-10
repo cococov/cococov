@@ -27,13 +27,13 @@ My name is Juan Carlos, currently working as a Senior Software Engineer at [Buk]
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 May 2024 - To: 09 May 2024
+From: 03 May 2024 - To: 10 May 2024
 
-TypeScript   3 hrs 45 mins   ██████████▓░░░░░░░░░░░░░░   43.08 %
-Ruby         1 hr 24 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.20 %
-Other        1 hr 10 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.44 %
-JSON         48 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.26 %
-Git Config   43 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 %
+TypeScript   3 hrs 52 mins   ███████████▒░░░░░░░░░░░░░   44.94 %
+Ruby         1 hr 26 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.73 %
+Other        59 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.38 %
+JSON         44 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 %
+Git Config   44 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 %
 ```
 
 <!--END_SECTION:waka-->
