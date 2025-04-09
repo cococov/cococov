@@ -2,7 +2,7 @@
 
 ### Hi 👋
 
-My name is Juan Carlos, currently working as a Senior Software Engineer at [Buk](https://github.com/bukhr).
+My name is Juan Carlos, currently working as a Staff Engineer at [Buk](https://github.com/bukhr).
 > Engineer, programmer, Magic: the gathering player and nerd.
 
 - Find me on [LinkedIn](https://www.linkedin.com/in/juan-carlos-lamas-alfaro/).
