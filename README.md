@@ -27,13 +27,13 @@ My name is Juan Carlos, currently working as a Staff Engineer at [Buk](https://g
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 June 2025 - To: 19 June 2025
+From: 13 June 2025 - To: 20 June 2025
 
-Ruby         5 hrs 37 mins   ██████████████████▒░░░░░░   73.17 %
-Other        35 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 %
-YAML         21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
-JavaScript   20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
-CSV          16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 %
+Ruby         5 hrs 55 mins   ██████████████████▒░░░░░░   73.70 %
+Other        40 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 %
+YAML         21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
+JavaScript   20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
+CSV          16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
 ```
 
 <!--END_SECTION:waka-->
