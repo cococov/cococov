@@ -27,7 +27,7 @@ My name is Juan Carlos, currently working as a Staff Engineer at [Buk](https://g
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 April 2026 - To: 30 April 2026
+From: 24 April 2026 - To: 01 May 2026
 
 TypeScript   35 mins               ██████████████████▓░░░░░░   74.39 %
 TSConfig     10 mins               █████▒░░░░░░░░░░░░░░░░░░░   21.77 %
