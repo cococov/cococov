@@ -7,7 +7,8 @@ My name is Juan Carlos, currently working as a Staff Engineer at [Buk](https://g
 
 - Find me on [LinkedIn](https://www.linkedin.com/in/juan-carlos-lamas-alfaro/).
 - Check out my [Portfolio](https://juanlamas.dev/). <code>outdated</code> <code>spanish</code>
-- [cEDH Analytics](https://www.cedh-analytics.com/). <code>My biggest personal project</code>
+- [RolaTools](https://rolatools.com/en). <code>Ragnarok Online tools (Replay analyzer, instance tracker, advanced calculator, etc)</code>
+- [cEDH Analytics](https://www.cedh-analytics.com/). <code>Analytics of cEDH format from Magic: The gathering</code>
 - [Moxfield](https://www.moxfield.com/users/cococov).
 
 ### Languages and Stuff:
